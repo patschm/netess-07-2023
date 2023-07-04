@@ -16,23 +16,28 @@ public class Program
 {
     static void Main(string[] args)
     {
-        BasicClient();
-        //DIClient();
+        //BasicClient();
+        DIClient();
         //StrongClient();
         //PostClient();
         //AuthClient();
     }
-
+static HttpClient client = new HttpClient();
     private static void BasicClient()
     {
-        HttpClient client = new HttpClient();
         client.BaseAddress = new Uri("https://localhost:8001/");
-
-        var response = client.GetAsync("WeatherForecast").Result;
-        if (response.IsSuccessStatusCode)
+        for (int i = 0; i < 1000; i++)
         {
-            var strData = response.Content.ReadAsStringAsync().Result;
-            Console.WriteLine(strData);
+            
+            
+
+            var response = client.GetAsync("WeatherForecast").Result;
+            if (response.IsSuccessStatusCode)
+            {
+                var strData = response.Content.ReadAsStringAsync().Result;
+                Console.Write(i + ", ");
+                //Console.WriteLine(strData);
+            }
         }
     }
     private static void DIClient()
@@ -44,7 +49,7 @@ public class Program
         {
             opts.BaseAddress = new Uri("https://localhost:8001/");
         })
-            .SetHandlerLifetime(TimeSpan.FromMinutes(5)) // Default is 10 minutes
+            .SetHandlerLifetime(TimeSpan.FromMinutes(5)) // Default is 4 minutes
             .AddPolicyHandler(msg =>
             { 
                 // Retry mechanisms
@@ -58,7 +63,7 @@ public class Program
         var provider = builder.BuildServiceProvider();
 
         var clientFactory = provider.GetRequiredService<IHttpClientFactory>();
-        var client = clientFactory.CreateClient("weather");
+        HttpClient client = clientFactory.CreateClient("weather");
         var response = client.GetAsync("WeatherForecast").Result;
         if (response.IsSuccessStatusCode)
         {

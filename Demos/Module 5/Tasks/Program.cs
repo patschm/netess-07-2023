@@ -13,6 +13,7 @@ internal class Program
         //AsynchronousCancelling();
         //await AsynchronousAwaitAsync();
         //Locking();
+        //Locking();
         //Semaphoring();
         //Blocking();
         //CountDown();
@@ -110,6 +111,7 @@ internal class Program
     private static void Locking()
     {      
         Parallel.For(0, 10, x => {
+            Task.Delay(1000).Wait();
             lock (stick)
             {
                 int tmp = counter;
@@ -124,7 +126,7 @@ internal class Program
     {
         var rnd = new Random();
         var garage = new SemaphoreSlim(5, 5);
-
+        
         Parallel.For(0, 20, x => Car(x));
         
         void Car(int id)
@@ -139,19 +141,24 @@ internal class Program
     }
     private static async void Blocking()
     {
+        //AutoResetEvent zaklamp = new AutoResetEvent(false);
         int a = 0;
         int b = 0;
 
         var t1 = Task.Run(() => {
             Task.Delay(2000).Wait();
             a = 10;
+           //zaklamp.Set();
         });
         var t2 = Task.Run(() => {
             Task.Delay(3000).Wait();
             b = 20;
+            //zaklamp.Set();
         });
-
-        await Task.WhenAll(t1, t2); 
+        // zaklamp.WaitOne();
+        // zaklamp.WaitOne();
+        Task.WaitAll(t1, t2);
+        //await Task.WhenAll(t1, t2); 
         var result = a + b;
         Console.WriteLine($"The answer is {result}");
     }
