@@ -1,8 +1,10 @@
-﻿using System.Xml.Serialization;
+﻿using System.Runtime.Serialization;
+using System.Xml.Serialization;
 
 namespace Cerials;
 
 [XmlType("person")]
+//[KnownType("Employee")]
 public class Person
 {
     [XmlAttribute("id")]

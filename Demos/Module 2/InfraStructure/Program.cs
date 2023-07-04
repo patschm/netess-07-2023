@@ -19,12 +19,12 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        EnvironmentSettings();
+        //EnvironmentSettings();
         //Configuration();
         //Secrets();
         //Logging();
         //DependencyInjection();
-        //AllInOne();
+        AllInOne();
     }
 
     private static void EnvironmentSettings()
@@ -69,6 +69,7 @@ internal class Program
         Console.WriteLine(string.Join(',', data1!));
         // Read complex object
         var addressSection = config.GetSection("MyConfiguration:Address");
+        System.Console.WriteLine("Test Value: " + addressSection.Value);
         var address=  addressSection.Get<Address>();
         Console.WriteLine($"{address?.StreetName} {address?.Number}");
         // Alternatively:
@@ -80,6 +81,8 @@ internal class Program
     private static void Secrets()
     {
         IConfigurationBuilder bld = new ConfigurationBuilder();
+        bld.SetBasePath(Environment.CurrentDirectory);
+        bld.AddJsonFile("appsettings.json", optional:true, reloadOnChange:false);
         bld.AddUserSecrets<Program>();
         IConfiguration config = bld.Build();
 
@@ -104,15 +107,16 @@ internal class Program
 
         var factory = LoggerFactory.Create(bld => {
             // In code:
-            bld.AddFilter((cat, lvl) => {
-                return cat == typeof(LogVictim).FullName && lvl <= LogLevel.Information;
-            });
+            // bld.AddFilter((cat, lvl) => {
+            //     return cat == typeof(LogVictim).FullName && lvl <= LogLevel.Information;
+            // });
             // In config:
-            //bld.AddConfiguration(config.GetSection("Logging"));
+            bld.AddConfiguration(config.GetSection("Logging"));
 
             bld.ClearProviders();
             // From package: Microsoft.Extensions.Logging.Console
             bld.AddConsole();
+            bld.AddEventLog();
         });
 
         ILogger<LogVictim> logger = factory.CreateLogger<LogVictim>();
@@ -124,12 +128,23 @@ internal class Program
         var factory = new DefaultServiceProviderFactory();
         var services = new ServiceCollection();
         var builder = factory.CreateBuilder(services);
-        builder.AddHostedService<ConsoleHost>();
-        builder.AddTransient<ICounter, Counter>();
+        builder.AddTransient<Testje>();
+        //builder.AddHostedService<ConsoleHost>();
+        //builder.AddTransient<ICounter, Counter>();
         //builder.AddScoped<ICounter, Counter>();
-        //builder.AddSingleton<ICounter, Counter>();
+        builder.AddSingleton<ICounter, Counter>();
 
         var provider = builder.BuildServiceProvider();
+
+        var lv = provider.GetRequiredService<Testje>();
+        lv.DoeIets();
+        // var ctr=provider.GetRequiredService<ICounter>();
+        // ctr.Increment();
+        // ctr=provider.GetRequiredService<ICounter>();
+        // ctr.Increment();
+        // ctr=provider.GetRequiredService<ICounter>();
+        // ctr.Increment();
+        // ctr.Show();
 
         Console.WriteLine("==== Run 1 ====");
         using (var scope = provider.CreateScope())
@@ -172,7 +187,8 @@ internal class Program
                 scol.AddTransient<LogVictim>();
             })
             .ConfigureLogging(log =>
-            {
+            {        
+               //log.ClearProviders();
                 //log.AddConsole(); // Not needed. Is default
             })
             .Build();
