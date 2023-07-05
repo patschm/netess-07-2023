@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>NU - Algemeen</title>
+        <link>https://www.nu.nl/algemeen</link>
+        <description>Het laatste nieuws het eerst op NU.nl</description>
+        <atom:link href="https://www.nu.nl/rss/Algemeen" rel="self"></atom:link>
+        <language>nl-nl</language>
+        <copyright>Copyright (c) 2023, NU</copyright>
+        <lastBuildDate>Wed, 05 Jul 2023 09:18:33 +0200</lastBuildDate>
+        <ttl>60</ttl>
+        <atom:logo>https://www.nu.nl/algemeenstatic/img/atoms/images/logos/rss-logo-250x40.png</atom:logo>
+        <item>
+            <title>Strijd om hogere lonen wordt komende maanden nog harder</title>
+            <link>
+                https://www.nu.nl/economie/6270828/strijd-om-hogere-lonen-wordt-komende-maanden-nog-harder.html</link>
+            <description>Werkgevers zetten de komende maanden hun hakken in het zand aan de
+                cao-tafels, blijkt uit een rondgang van NU.nl. Bedrijven zijn voorzichtiger vanwege
+                de onzekere economische situatie en vinden dat ze werknemers genoeg hebben
+                gecompenseerd door de lonen flink te verhogen.</description>
+            <pubDate>Wed, 05 Jul 2023 05:01:07 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270828/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/xyux3gkaa4fe_sqr256.jpg/strijd-om-hogere-lonen-wordt-komende-maanden-nog-harder.jpg"></enclosure>
+            <category>Economie</category>
+            <category>Algemeen</category>
+            <dc:creator>Ertan Basekin</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>Rusland meldt dode en gewonden na Oekraïense aanval op bezette stad Makiivka</title>
+            <link>
+                https://www.nu.nl/spanningen-oekraine/6270889/rusland-meldt-dode-en-gewonden-na-oekraiense-aanval-op-bezette-stad-makiivka.html</link>
+            <description>Oekraïne heeft dinsdagavond een aanval uitgevoerd op de door Rusland
+                bezette stad Makiivka. Volgens het Oekraïense leger is daarbij een Russische
+                militaire basis geraakt. De Russen bevestigen dat niet, maar melden wel 1 burgerdode
+                en 36 gewonden.</description>
+            <pubDate>Wed, 05 Jul 2023 08:07:42 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270889/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/vvdxug3akxn5_sqr256.jpg/rusland-meldt-dode-en-gewonden-na-oekraiense-aanval-op-bezette-stad-makiivka.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Buitenland</category>
+            <category>Oorlog in Oekraïne</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>Mensen houden gemiddeld meer geld over, toch grotere groep in het nauw</title>
+            <link>
+                https://www.nu.nl/economie/6270799/mensen-houden-gemiddeld-meer-geld-over-toch-grotere-groep-in-het-nauw.html</link>
+            <description>Huishoudens hielden gemiddeld 547 euro per maand over in het eerste
+                kwartaal van 2023. Dat is meer dan vorig jaar, toen we ons geld makkelijker konden
+                oppotten door een lockdown.</description>
+            <pubDate>Wed, 05 Jul 2023 07:06:14 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270799/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/74mxvu2aydfc_sqr256.jpg/mensen-houden-gemiddeld-meer-geld-over-toch-grotere-groep-in-het-nauw.jpg"></enclosure>
+            <category>Economie</category>
+            <category>Algemeen</category>
+            <dc:creator>José Boon</dc:creator>
+            <dc:rights>copyright photo: Alicia Llop</dc:rights>
+            <atom:link
+                href="https://nu.nl/economie/6269178/dit-verandert-er-op-1-juli-allemaal-voor-je-portemonnee.html"
+                rel="related" title="Dit verandert er op 1 juli allemaal voor je portemonnee"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/economie/6261869/wie-3000-euro-of-minder-verdient-krijgt-meer-vakantiegeld.html"
+                rel="related" title="Wie 3.000 euro of minder verdient, krijgt meer vakantiegeld"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/economie/6261740/lonen-gemiddeld-met-77-procent-omhoog.html"
+                rel="related" title="Lonen gemiddeld met 7,7 procent omhoog" type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Explainer | Huizen en kantoren CO2-negatief bouwen: het kan als het biobased is</title>
+            <link>
+                https://www.nu.nl/binnenland/6270876/huizen-en-kantoren-co2-negatief-bouwen-het-kan-als-het-biobased-is.html</link>
+            <description>Biobased bouwen is in opkomst in Nederland. Steeds meer huizen en kantoren
+                worden gemaakt van hernieuwbare materialen, zoals hout en vlas. Hoe wordt dit nu al
+                ingezet en waarom bouw je er CO2-negatief mee?</description>
+            <pubDate>Wed, 05 Jul 2023 07:46:05 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270876/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/1yvxhb5a78en_sqr256.jpg/huizen-en-kantoren-co2-negatief-bouwen-het-kan-als-het-biobased-is.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Video's</category>
+            <dc:creator>Bas Scharwachter</dc:creator>
+        </item>
+        <item>
+            <title>NU+ | Festival- of museumbezoek is knap lastig als je prikkelgevoelig bent</title>
+            <link>
+                https://www.nu.nl/muziek/6270652/festival-of-museumbezoek-is-knap-lastig-als-je-prikkelgevoelig-bent.html</link>
+            <description>In alle rust door een museum kunnen lopen of even bijkomen in een rustige
+                ruimte tijdens een festival. Het klinkt als een luxe, maar voor mensen die gevoelig
+                zijn voor prikkels, kan het noodzakelijk zijn. De cultuursector probeert hierbij te
+                helpen.</description>
+            <pubDate>Wed, 05 Jul 2023 07:53:12 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270652/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/nprxiqpans5e_sqr256.jpg/festival-of-museumbezoek-is-knap-lastig-als-je-prikkelgevoelig-bent.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Muziek</category>
+            <category>Boek &amp; Cultuur</category>
+            <category>Media en Cultuur</category>
+            <category>NUplus</category>
+            <dc:creator>Hasna Elbaamrani en Michiel Vos</dc:creator>
+            <dc:rights>copyright photo: Onbeperkt Genieten/Iris van Heesch</dc:rights>
+        </item>
+        <item>
+            <title>Jetten waarschuwt: Kabinet kan klimaatmiljarden ook zonder fonds uitgeven</title>
+            <link>
+                https://www.nu.nl/politiek/6270878/jetten-waarschuwt-kabinet-kan-klimaatmiljarden-ook-zonder-fonds-uitgeven.html</link>
+            <description>Het is nog onzeker of het klimaatfonds op voldoende steun in het parlement
+                kan rekenen. Minister Rob Jetten wees de oppositiepartijen GroenLinks en PvdA er
+                dinsdagavond op dat de vele miljarden ook zonder het fonds in klimaatbeleid gestopt
+                kunnen worden.</description>
+            <pubDate>Wed, 05 Jul 2023 07:11:07 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270878/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/phpxsavajnnn_sqr256.jpg/jetten-waarschuwt-kabinet-kan-klimaatmiljarden-ook-zonder-fonds-uitgeven.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Politiek</category>
+            <category>Klimaat</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>Priscilla Slomp</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+            <atom:link
+                href="https://nu.nl/politiek/6270632/jetten-moet-aan-de-bak-want-steun-klimaatmiljarden-is-geen-vanzelfsprekendheid.html"
+                rel="related"
+                title="Jetten moet aan de bak, want steun klimaatmiljarden is geen vanzelfsprekendheid"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/klimaat/6270644/kabinet-wil-zoveel-mogelijk-groene-energie-in-2050-zware-industrie-mag-blijven.html"
+                rel="related"
+                title="Kabinet wil zoveel mogelijk groene energie in 2050, zware industrie mag blijven"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/klimaat/6270169/klimaatafspraken-met-grootste-vervuilers-schieten-niet-op-de-tijd-dringt.html"
+                rel="related"
+                title="Klimaatafspraken met grootste vervuilers schieten niet op: 'De tijd dringt'"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Geen treinen in Noord-Nederland door noodweer, ruim 300 vluchten geschrapt</title>
+            <link>
+                https://www.nu.nl/storm-eunice/6270898/geen-treinen-in-noord-nederland-door-noodweer-ruim-300-vluchten-geschrapt.html</link>
+            <description>De NS legt het treinverkeer in heel Noord-Nederland stil vanwege storm
+                Poly. Op Schiphol zijn ruim driehonderd vluchten geschrapt. De storm is volgens de
+                NS "aanzienlijk zwaarder dan verwacht".</description>
+            <pubDate>Wed, 05 Jul 2023 09:05:02 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270898/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/wccx8poae9ns_sqr256.jpg/geen-treinen-in-noord-nederland-door-noodweer-ruim-300-vluchten-geschrapt.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Storm Poly</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+        </item>
+        <item>
+            <title>KNMI schaalt verder op: code rood in noordwesten wegens zeer zware windstoten</title>
+            <link>
+                https://www.nu.nl/storm-eunice/6270892/knmi-schaalt-verder-op-code-rood-in-noordwesten-wegens-zeer-zware-windstoten.html</link>
+            <description>Het KNMI heeft code rood uitgegeven in Noord-Holland, Flevoland, Friesland
+                en het IJsselmeergebied. Die provincies krijgen door storm Poly met zeer zware
+                windstoten te maken. Weggebruikers wordt geadviseerd om hun reis uit te stellen als
+                dat mogelijk is.</description>
+            <pubDate>Wed, 05 Jul 2023 09:16:29 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270892/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/2npxhn6ar3oh_sqr256.jpg/knmi-schaalt-verder-op-code-rood-in-noordwesten-wegens-zeer-zware-windstoten.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Storm Poly</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>Wat wil jij weten over zomerstorm Poly?</title>
+            <link>https://www.nu.nl/binnenland/6270900/wat-wil-jij-weten-over-zomerstorm-poly.html</link>
+            <description>Zomerstorm Poly raast woensdag over een groot deel van Nederland. Het KNMI
+                heeft code rood afgekondigd, de NS legt het treinverkeer stil in een groot deel van
+                Nederland en op Schiphol worden honderden vluchten geannuleerd. Wat wil jij nog
+                weten over deze storm? Laat het ons weten, en dan beantwoorden wij de beste en
+                meestgestelde vragen wellicht in een nieuw artikel.</description>
+            <pubDate>Wed, 05 Jul 2023 09:11:50 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270900/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/fqaxbxoad3w1_sqr256.jpg/wat-wil-jij-weten-over-zomerstorm-poly.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Storm Poly</category>
+            <category>Stelling</category>
+            <dc:creator>onze interactieredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>Liveblog | Poly is officieel zwaarste zomerstorm ooit gemeten</title>
+            <link>
+                https://www.nu.nl/storm-eunice/6270880/poly-is-officieel-zwaarste-zomerstorm-ooit-gemeten.html</link>
+            <description> </description>
+            <pubDate>Wed, 05 Jul 2023 09:18:33 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270880/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/ca9x7jearmlw_sqr256.jpg/poly-is-officieel-zwaarste-zomerstorm-ooit-gemeten.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Storm Poly</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>Zes vragen over de weercodes van het KNMI: 'Het blijft een verwachting'</title>
+            <link>
+                https://www.nu.nl/binnenland/5959948/zes-vragen-over-de-weercodes-van-het-knmi-het-blijft-een-verwachting.html</link>
+            <description>Het KNMI heeft woensdag voor een deel van het land code rood &lt;a
+                href="https://www.nu.nl/algemeen/6270892/knmi-schaalt-verder-op-code-rood-in-het-noordwesten-om-zeer-zware-windstoten.html"
+                target="_blank"&gt;uitgegeven&lt;/a&gt; vanwege zomerstorm Poly. Op het
+                discussieplatform van NU.nl stellen NUjij'ers regelmatig kritische vragen over zulke
+                waarschuwingen. Wij legden de meestgestelde vragen van 2019 voor aan het
+                weerinstituut. De antwoorden zijn nog altijd relevant.</description>
+            <pubDate>Wed, 05 Jul 2023 08:51:03 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/5959948/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/i93xqldajhib_sqr256.jpg/zes-vragen-over-de-weercodes-van-het-knmi-het-blijft-een-verwachting.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Achtergronden</category>
+            <category>Storm Poly</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+            <atom:link
+                href="https://nu.nl/binnenland/6270879/code-oranje-vanwege-storm-poly-kans-op-zeer-zware-windstoten-in-groot-deel-van-het-land.html"
+                rel="related"
+                title="Code oranje vanwege storm Poly: kans op zeer zware windstoten in groot deel van het land"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/binnenland/6270807/bereid-je-voor-op-stormachtig-weer-dit-verwacht-je-eerder-in-de-herfst.html"
+                rel="related"
+                title="Bereid je voor op stormachtig weer: 'Dit verwacht je eerder in de herfst'"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>NU+ | Achter de oorlog: In een ecologische ramp vrezen voor een nucleaire</title>
+            <link>
+                https://www.nu.nl/spanningen-oekraine/6270684/achter-de-oorlog-in-een-ecologische-ramp-vrezen-voor-een-nucleaire.html</link>
+            <description>Oorlogsverslaggever Hans Jaap Melissen vertelt voor NU.nl de verhalen van
+                de mensen achter de oorlog in Oekraïne. De inwoners van Zaporizhzhia proberen om te
+                gaan met de gevolgen van een opgeblazen stuwdam. Intussen vrezen ze een kernramp in
+                hun achtertuin.</description>
+            <pubDate>Wed, 05 Jul 2023 05:02:03 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270684/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/b1gxwb7apbn1_sqr256.jpg/achter-de-oorlog-in-een-ecologische-ramp-vrezen-voor-een-nucleaire.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Buitenland</category>
+            <category>login-vereist</category>
+            <category>Oorlog in Oekraïne</category>
+            <dc:creator>Hans Jaap Melissen</dc:creator>
+            <dc:rights>copyright photo: Hans Jaap Melissen</dc:rights>
+            <atom:link
+                href="https://nu.nl/spanningen-oekraine/6269844/achter-de-oorlog-hoe-kyiv-de-wagner-opstand-in-rusland-beleefde.html"
+                rel="related"
+                title="Achter de oorlog: Hoe Kyiv de Wagner-opstand in Rusland beleefde"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/spanningen-oekraine/6264355/achter-de-oorlog-alle-beetjes-vooruitgang-kosten-mensenlevens.html"
+                rel="related"
+                title="Achter de oorlog: 'Alle beetjes vooruitgang kosten mensenlevens'"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/spanningen-oekraine/6252546/achter-de-oorlog-natuurlijk-zijn-we-oorlogsmoe-maar-nog-niet-uitgeput.html"
+                rel="related"
+                title="Achter de oorlog: 'Natuurlijk zijn we oorlogsmoe, maar nog niet uitgeput'"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/spanningen-oekraine/6252433/achter-de-oorlog-heb-fles-champagne-klaarstaan-voor-de-overwinning.html"
+                rel="related"
+                title="Achter de oorlog: 'Heb fles champagne klaarstaan voor de overwinning'"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Voetbalcoach Vera Pauw in 2018 bedreigd door staflid: 'Schiet kogel door je
+                hoofd'</title>
+            <link>
+                https://www.nu.nl/voetbal/6270864/voetbalcoach-vera-pauw-in-2018-bedreigd-door-staflid-schiet-kogel-door-je-hoofd.html</link>
+            <description>Vera Pauw is tijdens haar verblijf bij de Amerikaanse club Houston Dash met
+                de dood bedreigd door een staflid. Dat onthult de voormalig bondscoach van Nederland
+                nadat ze door oud-speelsters en stafleden van de club is beschuldigd van wangedrag.</description>
+            <pubDate>Wed, 05 Jul 2023 09:09:09 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270864/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/c48x2ghazwdt_sqr256.jpg/voetbalcoach-vera-pauw-in-2018-bedreigd-door-staflid-schiet-kogel-door-je-hoofd.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Sport</category>
+            <category>Voetbal</category>
+            <dc:creator>Jeroen van Barneveld</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+        </item>
+        <item>
+            <title>Code oranje vanwege storm Poly: kans op zeer zware windstoten in groot deel van
+                het land</title>
+            <link>
+                https://www.nu.nl/binnenland/6270879/code-oranje-vanwege-storm-poly-kans-op-zeer-zware-windstoten-in-groot-deel-van-het-land.html</link>
+            <description>Zomerstorm Poly kan vanochtend en aan het begin van de middag zeer zware
+                windstoten veroorzaken. Daarom is in meer dan de helft van het land code oranje van
+                kracht. De NS en Schiphol nemen voorzorgsmaatregelen.</description>
+            <pubDate>Wed, 05 Jul 2023 06:57:49 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270879/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/2yoxvz6aoe3s_sqr256.jpg/code-oranje-vanwege-storm-poly-kans-op-zeer-zware-windstoten-in-groot-deel-van-het-land.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <atom:link
+                href="https://nu.nl/binnenland/6270807/bereid-je-voor-op-stormachtig-weer-dit-verwacht-je-eerder-in-de-herfst.html"
+                rel="related"
+                title="Bereid je voor op stormachtig weer: 'Dit verwacht je eerder in de herfst'"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Weerbericht: Je kan vandaag beter je regenjas meenemen dan je paraplu</title>
+            <link>
+                https://www.nu.nl/binnenland/6270881/weerbericht-je-kan-vandaag-beter-je-regenjas-meenemen-dan-je-paraplu.html</link>
+            <description>Het wordt een flink natte dag vandaag, maar wie zich wil wapenen tegen de
+                regen kan beter een regenjas meenemen dan een paraplu. Storm Poly brengt namelijk
+                flinke wind met zich mee.</description>
+            <pubDate>Wed, 05 Jul 2023 07:17:48 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270881/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/0xbxatqa0kd8_sqr256.jpg/weerbericht-je-kan-vandaag-beter-je-regenjas-meenemen-dan-je-paraplu.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>Frankrijk verdeeld over rellen: veel steun voor agent en nabestaanden tiener</title>
+            <link>
+                https://www.nu.nl/binnenland-en-buitenland/6270848/frankrijk-verdeeld-over-rellen-veel-steun-voor-agent-en-nabestaanden-tiener.html</link>
+            <description>In Frankrijk wordt verdeeld gereageerd op de rellen van de afgelopen
+                nachten. De schuld wordt gelegd bij de relschoppers én de politie. Ook stromen er
+                donaties binnen voor de familie van het slachtoffer én voor de politieman die hem
+                doodschoot.</description>
+            <pubDate>Tue, 04 Jul 2023 22:21:40 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270848/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/7mtxyoaa37yn_sqr256.jpg/frankrijk-verdeeld-over-rellen-veel-steun-voor-agent-en-nabestaanden-tiener.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Buitenland</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>Sigaretten kunnen tot wel vijftien keer schadelijker zijn dan eerder bekend was</title>
+            <link>
+                https://www.nu.nl/binnenland/6270860/sigaretten-kunnen-tot-wel-vijftien-keer-schadelijker-zijn-dan-eerder-bekend-was.html</link>
+            <description>Mensen die filtersigaretten in Nederland roken, krijgen veel meer
+                schadelijke stoffen binnen dan wat de officiële meetmethode hiervoor registreert.
+                Dat blijkt uit berekeningen van het RIVM.</description>
+            <pubDate>Tue, 04 Jul 2023 21:10:49 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270860/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/h37x3snazdo8_sqr256.jpg/sigaretten-kunnen-tot-wel-vijftien-keer-schadelijker-zijn-dan-eerder-bekend-was.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Instagram</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+            <atom:link
+                href="https://nu.nl/economie/6269697/verbod-op-zoete-smaakjes-in-e-sigaretten-is-met-maanden-uitgesteld.html"
+                rel="related"
+                title="Verbod op zoete smaakjes in e-sigaretten is met maanden uitgesteld"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/economie/6234094/overheid-moet-strenger-optreden-tegen-verkoop-van-filtersigaretten.html"
+                rel="related"
+                title="Overheid moet strenger optreden tegen verkoop van filtersigaretten"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Ongewenst delen van naaktbeelden wordt 'seksueel misdrijf'</title>
+            <link>
+                https://www.nu.nl/binnenland/6270856/ongewenst-delen-van-naaktbeelden-wordt-seksueel-misdrijf.html</link>
+            <description>Misbruik van seksueel beeldmateriaal, zoals het ongewenst openbaar maken
+                van seksfilmpjes en naaktfoto's, wordt een seksueel misdrijf. Hiermee wordt een
+                wijziging gemaakt op de Wet seksuele misdrijven.</description>
+            <pubDate>Tue, 04 Jul 2023 19:57:34 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270856/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/lflxt7makajl_sqr256.jpg/ongewenst-delen-van-naaktbeelden-wordt-seksueel-misdrijf.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Politiek</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>Vrouw na 36 uur uit grot van 150 meter diep gered in Italië</title>
+            <link>
+                https://www.nu.nl/buitenland/6270851/vrouw-na-36-uur-uit-grot-van-150-meter-diep-gered-in-italie.html</link>
+            <description>In Noord-Italië is een Italiaanse vrouw na 36 uur uit een grot gered. De
+                31-jarige vrouw bestudeert grotten. Ze viel doordat een rots waaraan ze zich had
+                vastgemaakt, afbrak. Ze belandde op 150 meter diepte.</description>
+            <pubDate>Tue, 04 Jul 2023 19:56:52 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270851/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/gbhxlrzamokm_sqr256.jpg/vrouw-na-36-uur-uit-grot-van-150-meter-diep-gered-in-italie.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Buitenland</category>
+            <category>Goed nieuws</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: Italy 24 Press</dc:rights>
+        </item>
+        <item>
+            <title>NS zet zich schrap voor slecht weer, Schiphol sluit 's ochtends twee uur alle
+                landingsbanen</title>
+            <link>
+                https://www.nu.nl/binnenland/6270857/ns-zet-zich-schrap-voor-slecht-weer-schiphol-sluit-s-ochtends-twee-uur-alle-landingsbanen.html</link>
+            <description>Vanwege harde windstoten, regen en slecht zicht is het voor vliegtuigen
+                woensdagochtend niet mogelijk om te landen op Schiphol. Daarom worden zowel
+                aankomende als vertrekkende vluchten geannuleerd of vertraagd. Ook de NS zet zich
+                schrap voor slecht weer.</description>
+            <pubDate>Wed, 05 Jul 2023 07:25:43 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270857/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/eb2x4v9a96pt_sqr256.jpg/ns-zet-zich-schrap-voor-slecht-weer-schiphol-sluit-s-ochtends-twee-uur-alle-landingsbanen.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+        </item>
+        <item>
+            <title>Slavernijmonument in Vlissingen moet van gemeente weg</title>
+            <link>
+                https://www.nu.nl/binnenland/6270852/slavernijmonument-in-vlissingen-moet-van-gemeente-weg.html</link>
+            <description>Het slavernijmonument dat in Vlissingen zonder vergunning werd geplaatst,
+                mag niet blijven staan. Dat is besloten na een gesprek tussen de initiatiefnemers en
+                de burgemeester.</description>
+            <pubDate>Tue, 04 Jul 2023 19:08:41 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270852/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/yy1xjt6al93x_sqr256.jpg/slavernijmonument-in-vlissingen-moet-van-gemeente-weg.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Keti Koti</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+            <atom:link
+                href="https://nu.nl/keti-koti/6270416/slavernijmonument-vlissingen-beklad-met-racistische-leuzen-maker-doet-aangifte.html"
+                rel="related"
+                title="Slavernijmonument Vlissingen beklad met racistische leuzen, maker doet aangifte"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Britse politie heeft nieuw bewijs over 'partygate'-schandaal</title>
+            <link>
+                https://www.nu.nl/binnenland-en-buitenland/6270850/britse-politie-heeft-nieuw-bewijs-over-partygate-schandaal.html</link>
+            <description>De Britse politie heeft nieuw bewijs binnen over het 'partygate'-schandaal,
+                dat gaat over feestjes van overheidspersoneel tijdens de coronalockdowns van 2020 en
+                2021.</description>
+            <pubDate>Tue, 04 Jul 2023 22:05:44 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270850/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/g5wxkh5a1yv1_sqr256.jpg/britse-politie-heeft-nieuw-bewijs-over-partygate-schandaal.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Buitenland</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: AFP</dc:rights>
+            <atom:link
+                href="https://nu.nl/buitenland/6268761/britse-parlement-doet-opgestapte-johnson-alsnog-in-de-ban-om-partygate.html"
+                rel="related"
+                title="Britse parlement doet opgestapte Johnson alsnog in de ban om 'partygate'"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/buitenland/6268080/johnson-misleidde-parlement-rond-partygate-ontloopt-schorsing-door-vertrek.html"
+                rel="related"
+                title="Johnson misleidde parlement rond 'partygate', ontloopt schorsing door vertrek"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/buitenland/6267501/na-boris-johnson-stappen-nog-twee-britse-parlementsleden-op.html"
+                rel="related" title="Na Boris Johnson stappen nog twee Britse parlementsleden op"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/buitenland/6267386/boris-johnson-stapt-per-direct-op-als-parlementslid-vanwege-partygate.html"
+                rel="related"
+                title="Boris Johnson stapt per direct op als parlementslid vanwege 'partygate'"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/videos/6256472/boris-johnson-over-partygate-ik-heb-niet-gelogen.html"
+                rel="related" title="Boris Johnson over 'partygate': 'Ik heb niet gelogen'"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/buitenland/6256453/boris-johnson-blijft-erbij-heb-niet-tegen-parlement-gelogen-over-coronafeestjes.html"
+                rel="related"
+                title="Boris Johnson blijft erbij: Heb niet tegen parlement gelogen over coronafeestjes"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Chaos in Tour: Jakobsen onderuit in finale vol valpartijen, Philipsen wint weer</title>
+            <link>
+                https://www.nu.nl/tour-de-france/6270840/chaos-in-tour-jakobsen-onderuit-in-finale-vol-valpartijen-philipsen-wint-weer.html</link>
+            <description>Jasper Philipsen heeft dinsdag ook de vierde etappe van de Tour de France
+                gewonnen. De Belg werd opnieuw goed afgezet door zijn ploeggenoot Mathieu van der
+                Poel. Onder anderen Fabio Jakobsen kwam in de chaotische laatste kilometers ten val.</description>
+            <pubDate>Tue, 04 Jul 2023 22:15:01 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270840/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/cpwx8q9an3gd_sqr256.jpg/chaos-in-tour-jakobsen-onderuit-in-finale-vol-valpartijen-philipsen-wint-weer.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Sport</category>
+            <category>Tour de France</category>
+            <category>Wielrennen</category>
+            <dc:creator>onze sportredactie</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+            <atom:link
+                href="https://nu.nl/tour-de-france/6270849/duo-philipsen-van-der-poel-slaat-weer-toe-mathieu-als-lead-out-is-een-voorrecht.html"
+                rel="related"
+                title="Duo Philipsen-Van der Poel slaat weer toe: 'Mathieu als lead-out is een voorrecht'"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Woede in Frankrijk en boete voor spoorwegmaatschappij nadat trein kat doodrijdt</title>
+            <link>
+                https://www.nu.nl/buitenland/6270837/woede-in-frankrijk-en-boete-voor-spoorwegmaatschappij-nadat-trein-kat-doodrijdt.html</link>
+            <description>De Franse nationale spoorwegmaatschappij SNCF is dinsdag door een rechtbank
+                schuldig bevonden aan nalatigheid, nadat een trein een kat had overreden op het
+                Parijse station Montparnasse. Het incident leidde tot landelijke ophef in Frankrijk.</description>
+            <pubDate>Tue, 04 Jul 2023 18:25:47 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270837/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/rzaxmzqahc0i_sqr256.jpg/woede-in-frankrijk-en-boete-voor-spoorwegmaatschappij-nadat-trein-kat-doodrijdt.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Buitenland</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: AFP</dc:rights>
+        </item>
+        <item>
+            <title>Explainer | Spookmeer keert terug in Californië: hierom is het water niet veilig</title>
+            <link>
+                https://www.nu.nl/algemeen/6270838/spookmeer-keert-terug-in-californie-hierom-is-het-water-niet-veilig.html</link>
+            <description>Heftige regenbuien hebben ervoor gezorgd dat een historisch meer in
+                Californië weer gevuld is met water. Het levert zowel mooie plaatjes als flink wat
+                problemen op. Beide zie je in deze video.</description>
+            <pubDate>Tue, 04 Jul 2023 18:50:26 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270838/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/7z9xrt5a97cs_sqr256.jpg/spookmeer-keert-terug-in-californie-hierom-is-het-water-niet-veilig.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Buitenland</category>
+            <dc:creator>Roos de Ridder</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+        </item>
+        <item>
+            <title>Taakstraf voor oud-medewerker hogeschool die 1,5 jaar lang toetsen doorverkocht</title>
+            <link>
+                https://www.nu.nl/binnenland-en-buitenland/6270829/taakstraf-voor-oud-medewerker-hogeschool-die-15-jaar-lang-toetsen-doorverkocht.html</link>
+            <description>Een oud-medewerker van Hogeschool Saxion in Enschede heeft dinsdag een
+                taakstraf van tweehonderd uur gekregen voor het anderhalf jaar lang doorverkopen van
+                toetsen. Ook drie medeverdachten kregen een taakstraf.</description>
+            <pubDate>Tue, 04 Jul 2023 20:34:14 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270829/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/h4fxzgwa9fuo_sqr256.jpg/taakstraf-voor-oud-medewerker-hogeschool-die-15-jaar-lang-toetsen-doorverkocht.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>NU+ | Jullie suggesties voor studentenwelzijn: 'Focus juist op motivatie'</title>
+            <link>
+                https://www.nu.nl/stelling/6270831/jullie-suggesties-voor-studentenwelzijn-focus-juist-op-motivatie.html</link>
+            <description>Onderwijsminister Robbert Dijkgraaf gaat jaarlijks 15 miljoen euro
+                uittrekken om het studentenwelzijn te verbeteren. Maar hoe precies, is nog
+                onduidelijk. Wij &lt;a
+                href="https://www.nu.nl/stelling/6270766/wat-kan-de-overheid-volgens-jou-doen-om-het-studentenwelzijn-te-verbeteren.html"&gt;vroegen&lt;/a&gt;
+                lezers op ons reactieplatform NUjij wat de overheid kan doen om de mentale
+                gezondheid van studenten te herstellen.</description>
+            <pubDate>Tue, 04 Jul 2023 17:09:12 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270831/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/tbixnvjay6r8_sqr256.jpg/jullie-suggesties-voor-studentenwelzijn-focus-juist-op-motivatie.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>login-vereist</category>
+            <category>Stelling</category>
+            <dc:creator>onze interactieredactie</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+        </item>
+        <item>
+            <title>Aanslag in Tel Aviv na grootste Israëlische aanval in decennia: dit speelt er</title>
+            <link>
+                https://www.nu.nl/buitenland/6270827/aanslag-in-tel-aviv-na-grootste-israelische-aanval-in-decennia-dit-speelt-er.html</link>
+            <description>In de Israëlische kustplaats Tel Aviv zijn dinsdag acht mensen gewond
+                geraakt nadat een automobilist op hen was ingereden en iemand had neergestoken. De
+                aanval past in een grotere context van geweld. Wat is er aan de hand?</description>
+            <pubDate>Tue, 04 Jul 2023 21:54:30 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270827/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/vwwx081a7yzb_sqr256.jpg/aanslag-in-tel-aviv-na-grootste-israelische-aanval-in-decennia-dit-speelt-er.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Buitenland</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>Leijten verlaat de Kamer: 'Onmisbaar in blootleggen toeslagenschandaal'</title>
+            <link>
+                https://www.nu.nl/politiek/6270824/leijten-verlaat-de-kamer-onmisbaar-in-blootleggen-toeslagenschandaal.html</link>
+            <description>SP-icoon Renske Leijten heeft dinsdag afscheid genomen van en in de Tweede
+                Kamer. Ze werd door Kamervoorzitter Vera Bergkamp geroemd om haar vasthoudendheid in
+                het toeslagenschandaal. "Waren de misstanden zonder jou aan het licht gekomen?"</description>
+            <pubDate>Tue, 04 Jul 2023 22:05:25 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270824/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/qbwxfpfah4wa_sqr256.jpg/leijten-verlaat-de-kamer-onmisbaar-in-blootleggen-toeslagenschandaal.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Politiek</category>
+            <dc:creator>Edo van der Goot</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>Video | Klifduikster springt van 20 meter hoge brug in Rotterdam</title>
+            <link>
+                https://www.nu.nl/videos/6270820/klifduikster-springt-van-20-meter-hoge-brug-in-rotterdam.html</link>
+            <description>Klifduikster Ginni van Katwijk dook dinsdag vanaf De Hef in de Koningshaven
+                in Rotterdam. Het beweegbare deel van de brug was speciaal voor de sprong naar 20
+                meter hoogte gebracht. Van Katwijk maakte de sprong in aanloop naar de Red Bull
+                Cliff Diving World Series in Japan.</description>
+            <pubDate>Tue, 04 Jul 2023 16:10:10 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270820/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/k1zx2xmatgtu_sqr256.jpg/klifduikster-springt-van-20-meter-hoge-brug-in-rotterdam.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Video's</category>
+            <dc:creator>onze videoredactie</dc:creator>
+            <dc:rights>copyright photo: Copyright info</dc:rights>
+        </item>
+    </channel>
+</rss>
